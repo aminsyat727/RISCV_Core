@@ -12,7 +12,8 @@
 -  Read on [RV32I](https://five-embeddev.com/riscv-user-isa-manual/Priv-v1.12/rv32.html#rv32)
 
 **Next**  
-- Learn about SystemVerilog
+- Study SystemVerilog and do some basic coding
+- install and test the needed tools (GTKWave, Yosys, Verilator, and cocotb python packages)
 
 # [14-8-2025]  
 
@@ -23,4 +24,4 @@
 -  Read on [RISC-V introduction](https://five-embeddev.com/riscv-user-isa-manual/Priv-v1.12/intro.html#introduction)
 
 **Next**  
-- Learn about RV32I base integer
+- Study RV32I base integer
