@@ -1,5 +1,10 @@
+## Table of Contents
+- [15-8-2025 — RV32I Overview](#15-8-2025)
+- [14-8-2025 — RISC-V Introduction](#14-8-2025)
+
+
 # [15-8-2025]  
-## RV32I Overview
+## Read on [RV32I](https://five-embeddev.com/riscv-user-isa-manual/Priv-v1.12/rv32.html#rv32)
 
 ### Instruction Set Summary
 - **40 unique instructions** (can be reduced to 38 if `FENCE = NOP` and `ECALL`/`BREAK` share encoding)
@@ -68,9 +73,10 @@
 - **Hints**: like `NOP`, may be used for sync or PC advance
 
 
+
+
 # [14-8-2025]  
-**Read on RISC-V Introduction**  
+## **Read on [RISC-V Introduction](https://five-embeddev.com/riscv-user-isa-manual/Priv-v1.12/intro.html#introduction)**  
 - RISC-V (pronounced “risk-five”)   
 - Each base integer instruction set is characterized by the width of the integer registers and the corresponding size of the address space and by the number of integer registers.  
 - 2 primary base integer: RV3I and RV64
-- References: https://five-embeddev.com/riscv-user-isa-manual/Priv-v1.12/intro.html#introduction
