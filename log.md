@@ -1,8 +1,22 @@
 ## Table of Contents
+- [18-8-2025 — Sign extender design](#18-8-2025)
 - [17-8-2025 — SytemVerilog and Tools installation](#17-8-2025)
 - [15-8-2025 — RV32I Overview](#15-8-2025)
 - [14-8-2025 — RISC-V Introduction](#14-8-2025)
 
+# [18-8-2025]  
+
+**Learn**  
+- SystemVerilog extended literal values and data types
+
+**Did**  
+- get Prof David Harris lecture slides and other related files
+- design the sign extender module 
+
+**Next**  
+- Continue reading on SystemVerilog
+- create a testbench for the sign extender
+- go through Prof David Harris lecture slides
 
 # [17-8-2025]  
 
